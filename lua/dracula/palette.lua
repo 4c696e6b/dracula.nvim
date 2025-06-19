@@ -24,9 +24,9 @@
 ---@field white string
 ---@field black string
 return {
-   bg = "#1c1c2c",
+   bg = "#241c36",
    fg = "#eef4f6",
-   selection = "#393956",
+   selection = "#49376d",
    comment = "#8168b1",
    red = "#ec7979",
    orange = "#eca979",
@@ -45,7 +45,7 @@ return {
    menu = "#21222C",
    visual = "#3E4452",
    gutter_fg = "#4B5263",
-   nontext = "#3B4048",
+   nontext = "#ff0000",
    white = "#ABB2BF",
-   black = "#191A21",
+   black = "#120e1b",
 }
