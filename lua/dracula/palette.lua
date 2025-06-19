@@ -45,7 +45,7 @@ return {
    menu = "#21222C",
    visual = "#3E4452",
    gutter_fg = "#4B5263",
-   nontext = "#2e2343",
+   nontext = "#1b1528",
    white = "#ABB2BF",
    black = "#1b1528",
 }
