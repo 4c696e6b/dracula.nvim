@@ -47,5 +47,5 @@ return {
    gutter_fg = "#4B5263",
    nontext = "#ff0000",
    white = "#ABB2BF",
-   black = "#120e1b",
+   black = "#1b1528",
 }
